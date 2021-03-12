@@ -1,0 +1,13 @@
+C:\Users\Pankaj\source\repos\student2\student2\bin\Debug\student2.exe.config
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.Form1.resources
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.Resources.resources
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.vbproj.GenerateResource.Cache
+C:\Users\Pankaj\source\repos\student2\student2\bin\Debug\student2.exe
+C:\Users\Pankaj\source\repos\student2\student2\bin\Debug\student2.pdb
+C:\Users\Pankaj\source\repos\student2\student2\bin\Debug\student2.xml
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.exe
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.xml
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.pdb
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.Form2.resources
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.vbprojAssemblyReference.cache
+C:\Users\Pankaj\source\repos\student2\student2\obj\Debug\student2.vbproj.CoreCompileInputs.cache
